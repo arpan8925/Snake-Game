@@ -1,0 +1,1 @@
+scoreboard.get_score()
