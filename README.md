@@ -22,8 +22,8 @@ This project provides a basic Snake game where the player controls a snake. The 
 4.  Run the game by executing `main.py`:
 
     ```bash
-python main.py
-```
+    python main.py
+    ```
 
 ## Controls
 
