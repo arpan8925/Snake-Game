@@ -142,11 +142,3 @@ python main.py
 ## High Score
 
 The high score is stored in the `data.txt` file.
-
-## Credits
-
-This game was created by arpan8925.
-
-## License
-
-[Choose a license and add it here] (e.g., MIT License)
